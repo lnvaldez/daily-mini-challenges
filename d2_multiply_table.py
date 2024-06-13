@@ -1,6 +1,8 @@
 '''
+DIA 2
 Tabla de Multiplicar: Escribe un programa que muestre la tabla de multiplicar de un número dado por el usuario.
 '''
+
 from tabulate import tabulate
 
 # ANSI Color Codes
