@@ -55,4 +55,3 @@ for i in range(1, 11):
 # Print table
 table = tabulate(data, headers, tablefmt="grid", colalign=align)
 print(table)
-
