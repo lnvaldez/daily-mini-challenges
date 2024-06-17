@@ -1,8 +1,6 @@
 # 🐧 Daily Mini-Challenges
 
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
-
-## <span style="color:lightblue">Week 1</span> \* June 11-14
+## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 1` \* June 11-14
 
 | 📅 Date  | 🏆 Challenge                     | 🗂️ File                |
 | -------- | -------------------------------- | ---------------------- |
@@ -11,7 +9,7 @@
 | 🅰️ 06/13 | **Day 3** - Count Vowels         | `d3_count_vowels.py`   |
 | 📦 06/14 | **Day 4** - Sort List            | `d4_sort_list.py`      |
 
-## <span style="color:lightblue">Week 2</span> \* June 17-21
+## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 2` \* June 17-21
 
 | 📅 Date  | 🏆 Challenge                   | 🗂️ File              |
 | -------- | ------------------------------ | -------------------- |
