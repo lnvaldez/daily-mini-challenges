@@ -11,8 +11,9 @@
 
 ## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 2` \* June 17-21
 
-| 📅 Date  | 🏆 Challenge                   | 🗂️ File                                                                                                |
-| -------- | ------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| 📙 06/17 | **Day 5** - List to Dictionary | [`d5_list_to_dict.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d5_list_to_dict.py) |
+| 📅 Date  | 🏆 Challenge                      | 🗂️ File                                                                                                                  |
+| -------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 📙 06/17 | **Day 5** - List to Dictionary    | [`d5_list_to_dict.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d5_list_to_dict.py)                   |
+| 🌡️ 06/18 | **Day 6** - Celsius to Fahrenheit | [`d6_celsius_to_fahrenheit.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d6_celsius_to_fahrenheit.py) |
 
 ---
