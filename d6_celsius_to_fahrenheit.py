@@ -1,3 +1,7 @@
+'''
+DIA 6
+Conversión de Temperatura: Escribe un programa que convierta una temperatura dada en grados Celsius a grados Fahrenheit.
+'''
 class Color:
 
     MAGENTA = '\x1b[35m'
