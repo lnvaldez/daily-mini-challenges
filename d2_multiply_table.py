@@ -6,7 +6,7 @@ Tabla de Multiplicar: Escribe un programa que muestre la tabla de multiplicar de
 from tabulate import tabulate
 
 # ANSI Color Codes
-class color:
+class Color:
     BLUE = '\033[94m'
     YELLOW = '\033[93m'
     ENDC = '\033[0m'
@@ -25,11 +25,11 @@ def multiplication_table(x):
     return product_list
 
 # Get styling for odd and even numbers
-EVEN_CLR = color.BLUE
-ODD_CLR = color.YELLOW
+EVEN_CLR = Color.BLUE
+ODD_CLR = Color.YELLOW
 # 'End' color and underline
-END_CLR = color.ENDC
-UNDERLINE = color.UNDERLINE
+END_CLR = Color.ENDC
+UNDERLINE = Color.UNDERLINE
 
 # User input
 x = int(input("Enter a number: "))
