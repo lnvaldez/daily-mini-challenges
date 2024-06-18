@@ -1,5 +1,29 @@
 # 🐧 Daily Mini-Challenges
 
+## Run Python Code
+
+<details>
+  <summary>Click to run Python code</summary>
+  <iframe
+    height="500px"
+    width="100%"
+    srcdoc="<html>
+      <head>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/brython/3.9.5/brython.min.js'></script>
+      </head>
+      <body onload='brython()'>
+        <script type='text/python'>
+          # Python code to load and execute a specific file from the repo
+          import urllib.request
+          exec(urllib.request.urlopen('https://raw.githubusercontent.com/lnvaldez/Daily-Mini-Challenges/main/d6_celsius_to_fahrenheit.py').read())
+        </script>
+      </body>
+    </html>"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</details>
+
 ## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 1` \* June 11-14
 
 | 📅 Date  | 🏆 Challenge                     | 🗂️ File                                                                                                    |
