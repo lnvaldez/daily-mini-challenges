@@ -1,9 +1,5 @@
 # 🐧 Daily Mini-Challenges
 
-```python exec="on"
-print("Hello Markdown!")
-```
-
 ## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 1` \* June 11-14
 
 | 📅 Date  | 🏆 Challenge                     | 🗂️ File                                                                                                    |
