@@ -1,7 +1,5 @@
 # 🐧 Daily Mini-Challenges
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lnvaldez/Daily-Mini-Challenges/HEAD)
-
 ## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 1` \* June 11-14
 
 | 📅 Date  | 🏆 Challenge                     | 🗂️ File                                                                                                    |
