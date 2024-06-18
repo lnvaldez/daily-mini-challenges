@@ -1,6 +1,8 @@
 # 🐧 Daily Mini-Challenges
 
-<iframe src="d6_celsius_to_fahrenheit.html" width="800px" height="600px"></iframe>
+```python exec="on"
+print("Hello Markdown!")
+```
 
 ## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 1` \* June 11-14
 
