@@ -42,7 +42,7 @@ print(f'{MAGENTA_CLR}{user_input} °C{END_CLR} = {CYAN_CLR}{fahrenheit} °F{END_
 
 </details>
 
-## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 1` \* June 11-14
+## <span style="color: #1589F0;">🔷</span> `Week 1` \* June 11-14
 
 | 📅 Date  | 🏆 Challenge                     | 🗂️ File                                                                                                       |
 | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ print(f'{MAGENTA_CLR}{user_input} °C{END_CLR} = {CYAN_CLR}{fahrenheit} °F{END_
 | 🅰️ 06/13 | **Day 3** - Count Vowels         | [`d3_count_vowels.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w1/d3_count_vowels.py)     |
 | 📦 06/14 | **Day 4** - Sort List            | [`d4_sort_list.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w1/d4_sort_list.py)           |
 
-## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 2` \* June 17-21
+## <span style="color: #1589F0;">🔷</span> `Week 2` \* June 17-21
 
 | 📅 Date  | 🏆 Challenge                      | 🗂️ File                                                                                                                  |
 | -------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
