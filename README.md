@@ -1,9 +1,7 @@
-<h1 style="background: linear-gradient(to right, #a1c4fd, #c2e9fb); color: white; padding: 20px; border-radius: 10px; text-align: center;">
-  🐧 Daily Mini-Challenges
-</h1>
+# 🐧 Daily Mini-Challenges
 
-<details style="border: 1px solid #ccc; padding: 10px; margin-bottom:15px;border-radius: 5px;">
-  <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #007bff; ">Today's Mini-Challenge</summary>
+<details>
+  <summary>Today's Mini-Challenge</summary>
 
 ```python
 class Color:
@@ -44,9 +42,7 @@ print(f'{MAGENTA_CLR}{user_input} °C{END_CLR} = {CYAN_CLR}{fahrenheit} °F{END_
 
 </details>
 
-<div style="font-family: Arial, sans-serif; padding: 20px; border-radius: 10px; border: 0.5px solid #ccc; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-
-## <span style="color: #1589F0;">🔷</span> `Week 1` \* June 11-14
+## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 1` \* June 11-14
 
 | 📅 Date  | 🏆 Challenge                     | 🗂️ File                                                                                                       |
 | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +51,7 @@ print(f'{MAGENTA_CLR}{user_input} °C{END_CLR} = {CYAN_CLR}{fahrenheit} °F{END_
 | 🅰️ 06/13 | **Day 3** - Count Vowels         | [`d3_count_vowels.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w1/d3_count_vowels.py)     |
 | 📦 06/14 | **Day 4** - Sort List            | [`d4_sort_list.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w1/d4_sort_list.py)           |
 
-## <span style="color: #1589F0;">🔷</span> `Week 2` \* June 17-21
+## - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Week 2` \* June 17-21
 
 | 📅 Date  | 🏆 Challenge                      | 🗂️ File                                                                                                                  |
 | -------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -63,5 +59,3 @@ print(f'{MAGENTA_CLR}{user_input} °C{END_CLR} = {CYAN_CLR}{fahrenheit} °F{END_
 | 🌡️ 06/18 | **Day 6** - Celsius to Fahrenheit | [`d6_celsius_to_fahrenheit.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d6_celsius_to_fahrenheit.py) |
 
 ---
-
-</div>
