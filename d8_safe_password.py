@@ -1,5 +1,5 @@
 '''
-DIA 7
+DIA 8
 Generador de Contraseñas Seguras: Escribe un programa que genere una contraseña 
 segura de longitud variable (entre 8 y 16 caracteres) que incluya letras mayúsculas, 
 minúsculas, números y símbolos.
@@ -52,3 +52,32 @@ user_input = int(input("Enter a number between 8 and 16: "))
 password = generate_password(user_input)
 
 print(f"{GREEN}{password}{END}")
+
+# # Alt Solution
+
+# import string
+# import random
+
+# lower_case = list(string.ascii_lowercase)
+# upper_case = list(string.ascii_uppercase)
+# digits = list(string.digits)
+# symbols = list(string.punctuation)
+
+# all_characters = lower_case + upper_case + digits + symbols
+
+# l = int(input("Enter a number between 8-16 for your password's length: "))
+
+# while l < 8 or l > 16:
+#     l = int(input("Try again: "))
+
+# def generate_password(pass_length):
+#     password = ""
+
+#     for i in range(pass_length):
+#         password += random.choice(all_characters)
+#     return password 
+
+# password = generate_password(pass_length=l)
+
+# print(password)
+
