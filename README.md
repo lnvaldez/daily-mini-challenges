@@ -4,39 +4,53 @@
   <summary>Today's Mini-Challenge</summary>
 
 ```python
+import string
+import random
+
 class Color:
+    GREEN_CLR = '\x1b[32m'
+    END_CLR = '\033[0m'
 
-  MAGENTA = '\x1b[35m'
-  CYAN = '\x1b[36m'
-  ENDC = '\033[0m'
+def generate_password(length):
+    if length < 8 or length > 16:
+        raise ValueError("Password length must be between 8 and 16 characters")
 
-def check_temp(temp):
+    password = []
 
-  if temp > 95 and temp < 140:
-      return '🥵'
-  elif temp > 60 and temp < 100:
-      return '😁'
-  elif temp > 20 and temp < 60:
-      return '🥶'
-  else:
-      return '💀'
+    # Ensure at least one character from each category is included
+    password.append(random.choice(lower_case))
+    password.append(random.choice(upper_case))
+    password.append(random.choice(digits))
+    password.append(random.choice(symbols))
 
-def celsius_to_fahrenheit(temp_in_celsius):
+    # Fill the rest of the password length with random choices from all categories
+    all_characters = lower_case + upper_case + digits + symbols
+    while len(password) < length:
+        password.append(random.choice(all_characters))
 
-   fahrenheit = (temp_in_celsius * 9/5) + 32
+    # Shuffle the password list to ensure randomness
+    random.shuffle(password)
 
-   return fahrenheit
+    # Convert list to string
+    password = ''.join(password)
 
-MAGENTA_CLR = Color.MAGENTA
-CYAN_CLR = Color.CYAN
-END_CLR = Color.ENDC
+    return password
 
-user_input = int(input("Enter temperature in celsius: "))
+GREEN = Color.GREEN_CLR
+END = Color.END_CLR
 
-fahrenheit = celsius_to_fahrenheit(user_input)
-temp_eval = check_temp(fahrenheit)
+lower_case = list(string.ascii_lowercase)
+upper_case = list(string.ascii_uppercase)
+digits = list(string.digits)
+symbols = list(string.punctuation)
 
-print(f'{MAGENTA_CLR}{user_input} °C{END_CLR} = {CYAN_CLR}{fahrenheit} °F{END_CLR} {temp_eval}')
+# Example
+# print(generate_password(16))
+
+user_input = int(input("Enter a number between 8 and 16: "))
+password = generate_password(user_input)
+
+print(f"{GREEN}{password}{END}")
 
 ```
 
@@ -53,9 +67,11 @@ print(f'{MAGENTA_CLR}{user_input} °C{END_CLR} = {CYAN_CLR}{fahrenheit} °F{END_
 
 ## <span style="color: #1589F0;">🔷</span> `Week 2` \* June 17-21
 
-| 📅 Date  | 🏆 Challenge                      | 🗂️ File                                                                                                                  |
-| -------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 📙 06/17 | **Day 5** - List to Dictionary    | [`d5_list_to_dict.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d5_list_to_dict.py)                   |
-| 🌡️ 06/18 | **Day 6** - Celsius to Fahrenheit | [`d6_celsius_to_fahrenheit.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d6_celsius_to_fahrenheit.py) |
+| 📅 Date  | 🏆 Challenge                        | 🗂️ File                                                                                                                  |
+| -------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 📙 06/17 | **Day 5** - List to Dictionary      | [`d5_list_to_dict.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d5_list_to_dict.py)                   |
+| 🌡️ 06/18 | **Day 6** - Celsius to Fahrenheit   | [`d6_celsius_to_fahrenheit.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d6_celsius_to_fahrenheit.py) |
+| ✊ 06/19 | **Day 7** - Rock, Paper, Scissors   | [`d7_rps.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d7_rps.py)                                     |
+| 🔒 06/20 | **Day 8** - Safe Password Generator | [`d8_safe_password.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d8_safe_password.py)                 |
 
 ---
