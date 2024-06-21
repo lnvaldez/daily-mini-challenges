@@ -3,55 +3,23 @@
 <details>
   <summary>Today's Mini-Challenge</summary>
 
-```python
-import string
-import random
+```c++
+#include <iostream>
 
-class Color:
-    GREEN_CLR = '\x1b[32m'
-    END_CLR = '\033[0m'
+int main()
+{
+    int a;
+    int b;
 
-def generate_password(length):
-    if length < 8 or length > 16:
-        raise ValueError("Password length must be between 8 and 16 characters")
+    std::cout << "Enter the first number: ";
+    std::cin >> a;
+    std::cout << "Enter the second number: ";
+    std::cin >> b;
 
-    password = []
+    std::cout << "The sum of " << a << " and " << b << " is = " << a + b << std::endl;
 
-    # Ensure at least one character from each category is included
-    password.append(random.choice(lower_case))
-    password.append(random.choice(upper_case))
-    password.append(random.choice(digits))
-    password.append(random.choice(symbols))
-
-    # Fill the rest of the password length with random choices from all categories
-    all_characters = lower_case + upper_case + digits + symbols
-    while len(password) < length:
-        password.append(random.choice(all_characters))
-
-    # Shuffle the password list to ensure randomness
-    random.shuffle(password)
-
-    # Convert list to string
-    password = ''.join(password)
-
-    return password
-
-GREEN = Color.GREEN_CLR
-END = Color.END_CLR
-
-lower_case = list(string.ascii_lowercase)
-upper_case = list(string.ascii_uppercase)
-digits = list(string.digits)
-symbols = list(string.punctuation)
-
-# Example
-# print(generate_password(16))
-
-user_input = int(input("Enter a number between 8 and 16: "))
-password = generate_password(user_input)
-
-print(f"{GREEN}{password}{END}")
-
+    return 0;
+}
 ```
 
 </details>
@@ -73,5 +41,6 @@ print(f"{GREEN}{password}{END}")
 | 🌡️ 06/18 | **Day 6** - Celsius to Fahrenheit   | [`d6_celsius_to_fahrenheit.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d6_celsius_to_fahrenheit.py) |
 | ✊ 06/19 | **Day 7** - Rock, Paper, Scissors   | [`d7_rps.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d7_rps.py)                                     |
 | 🔒 06/20 | **Day 8** - Safe Password Generator | [`d8_safe_password.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d8_safe_password.py)                 |
+| ➕ 06/21 | **Day 9** - Sum                     | [`d9_sum.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d9_sum.cpp)                                   |
 
 ---
