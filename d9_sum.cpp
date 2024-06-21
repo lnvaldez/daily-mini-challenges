@@ -1,3 +1,8 @@
+/*
+DIA 8
+Escribir un programa que pida al usuario dos números y los sume. ¡Pero esta vez hazlo en C++! :)
+*/
+
 #include <iostream> 
 
 int main()
