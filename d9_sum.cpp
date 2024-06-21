@@ -1,5 +1,5 @@
 /*
-DIA 8
+DIA 9
 Escribir un programa que pida al usuario dos números y los sume. ¡Pero esta vez hazlo en C++! :)
 */
 
