@@ -1,6 +1,6 @@
 /*
 DIA 11
-Pal�ndromo: Escribir un programa que determine si una cadena de caracteres ingresada por el usuario es un pal�ndromo �Pero hazlo en C++! :)
+Palindromo: Escribir un programa que determine si una cadena de caracteres ingresada por el usuario es un palindromo ¡Pero hazlo en C++! :)
 */
 
 #include <iostream>

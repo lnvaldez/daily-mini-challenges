@@ -1,6 +1,6 @@
 /*
 DIA 10
-Ordenamiento de un Array: Escribir un programa que ordene un array de enteros �Pero hazlo en C++! :)
+Ordenamiento de un Array: Escribir un programa que ordene un array de enteros ¡Pero hazlo en C++! :)
 */
 
 #include <iostream>
