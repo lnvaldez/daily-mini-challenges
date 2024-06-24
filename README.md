@@ -35,12 +35,12 @@ int main()
 
 ## <span style="color: #1589F0;">🔷</span> `Week 2` \* June 17-21
 
-| 📅 Date  | 🏆 Challenge                        | 🗂️ File                                                                                                                  |
-| -------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 📙 06/17 | **Day 5** - List to Dictionary      | [`d5_list_to_dict.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d5_list_to_dict.py)                   |
-| 🌡️ 06/18 | **Day 6** - Celsius to Fahrenheit   | [`d6_celsius_to_fahrenheit.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d6_celsius_to_fahrenheit.py) |
-| ✊ 06/19 | **Day 7** - Rock, Paper, Scissors   | [`d7_rps.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d7_rps.py)                                     |
-| 🔒 06/20 | **Day 8** - Safe Password Generator | [`d8_safe_password.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d8_safe_password.py)                 |
-| ➕ 06/21 | **Day 9** - Sum                     | [`d9_sum.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d9_sum.cpp)                                   |
+| 📅 Date  | 🏆 Challenge                        | 🗂️ File                                                                                                                     |
+| -------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 📙 06/17 | **Day 5** - List to Dictionary      | [`d5_list_to_dict.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w2/d5_list_to_dict.py)                   |
+| 🌡️ 06/18 | **Day 6** - Celsius to Fahrenheit   | [`d6_celsius_to_fahrenheit.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w2/d6_celsius_to_fahrenheit.py) |
+| ✊ 06/19 | **Day 7** - Rock, Paper, Scissors   | [`d7_rps.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w2/d7_rps.py)                                     |
+| 🔒 06/20 | **Day 8** - Safe Password Generator | [`d8_safe_password.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w2/d8_safe_password.py)                 |
+| ➕ 06/21 | **Day 9** - Sum                     | [`d9_sum.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w2/d9_sum.cpp)                                   |
 
 ---
