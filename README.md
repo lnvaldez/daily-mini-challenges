@@ -1,7 +1,7 @@
 # 🐧 Daily Mini-Challenges
 
 <details>
-  <summary>Today's Mini-Challenge</summary>
+  <summary>Last Mini-Challenge</summary>
 
 ```c++
 #include <iostream>
