@@ -73,9 +73,9 @@ int main()
 
 ---
 
-## <span style="color: #1589F0;">🔷</span> `Week 3` \* June 24-28
+## <span style="color: #1589F0;">🔷</span> `Week 3` \* June 24-25
 
 | 📅 Date  | 🏆 Challenge                  | 🗂️ File                                                                                                               |
 | -------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 📈 06/24 | **Day 10** - Order Array      | [`d10_order_array.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/d10_order_array.cpp)              |
-| ✅ 06/25 | **Day 11** - Check Palindrome | [`d11_check_palindrome.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w2/d11_check_palindrome.cpp) |
+| 📈 06/24 | **Day 10** - Order Array      | [`d10_order_array.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w3/d10_order_array.cpp)           |
+| ✅ 06/25 | **Day 11** - Check Palindrome | [`d11_check_palindrome.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/w3/d11_check_palindrome.cpp) |
