@@ -1,6 +1,6 @@
 # 🐧 Daily Mini-Challenges
 
-<h1 align=center>🤿 The Dive</h1>
+<h1 align=center>🤿 The Dive MC's</h1>
 
 ## <span style="color: #1589F0;">🔷</span> `Week 1` \* June 11-14
 
@@ -32,7 +32,7 @@
 
 ---
 
-<h1 align=center>🔵 The Huddle</h1>
+<h1 align=center>🔵 The Huddle MC's</h1>
 
 1. **Binary Search**
 
