@@ -16,33 +16,31 @@
 
 ## <span style="color: #1589F0;"></span> `Week 1` \* June 11-14
 
-| 📅 Date  | 🏆 Challenge                     | 🗂️ File                                                                                                            |
-| -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| ⛓️ 06/11 | **Day 1** - Reverse String       | [`d1_reverse_string.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d1_reverse_string.py) |
-| ✖️ 06/12 | **Day 2** - Multiplication Table | [`d2_multiply_table.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d2_multiply_table.py) |
-| 🅰️ 06/13 | **Day 3** - Count Vowels         | [`d3_count_vowels.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d3_count_vowels.py)     |
-| 📦 06/14 | **Day 4** - Sort List            | [`d4_sort_list.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d4_sort_list.py)           |
+| 📅 Date  | 🏆 Challenge                     | 🗂️ File                                                                                                            | Concepts Covered    | Status |
+| -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------- | ------ |
+| ⛓️ 06/11 | **Day 1** - Reverse String       | [`d1_reverse_string.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d1_reverse_string.py) | Strings, Functions  | ✅     |
+| ✖️ 06/12 | **Day 2** - Multiplication Table | [`d2_multiply_table.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d2_multiply_table.py) | Loops, Nested Loops | ✅     |
+| 🅰️ 06/13 | **Day 3** - Count Vowels         | [`d3_count_vowels.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d3_count_vowels.py)     | Strings, Functions  | ✅     |
+| 📦 06/14 | **Day 4** - Sort List            | [`d4_sort_list.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d4_sort_list.py)           | Lists, Sorting      | ✅     |
 
 ## <span style="color: #1589F0;"></span> `Week 2` \* June 17-21
 
-| 📅 Date  | 🏆 Challenge                        | 🗂️ File                                                                                                                          |
-| -------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 📙 06/17 | **Day 5** - List to Dictionary      | [`d5_list_to_dict.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d5_list_to_dict.py)                   |
-| 🌡️ 06/18 | **Day 6** - Celsius to Fahrenheit   | [`d6_celsius_to_fahrenheit.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d6_celsius_to_fahrenheit.py) |
-| ✊ 06/19 | **Day 7** - Rock, Paper, Scissors   | [`d7_rps.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d7_rps.py)                                     |
-| 🔒 06/20 | **Day 8** - Safe Password Generator | [`d8_safe_password.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d8_safe_password.py)                 |
-| ➕ 06/21 | **Day 9** - Sum                     | [`d9_sum.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d9_sum.cpp)                                   |
+| 📅 Date  | 🏆 Challenge                        | 🗂️ File                                                                                                                          | Concepts Covered       | Status |
+| -------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------ |
+| 📙 06/17 | **Day 5** - List to Dictionary      | [`d5_list_to_dict.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d5_list_to_dict.py)                   | Dictionaries, Lists    | ✅     |
+| 🌡️ 06/18 | **Day 6** - Celsius to Fahrenheit   | [`d6_celsius_to_fahrenheit.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d6_celsius_to_fahrenheit.py) | Functions, Math        | ✅     |
+| ✊ 06/19 | **Day 7** - Rock, Paper, Scissors   | [`d7_rps.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d7_rps.py)                                     | Conditional Statements | ✅     |
+| 🔒 06/20 | **Day 8** - Safe Password Generator | [`d8_safe_password.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d8_safe_password.py)                 | Strings, Random        | ✅     |
+| ➕ 06/21 | **Day 9** - Sum                     | [`d9_sum.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d9_sum.cpp)                                   | Functions, Loops       | ✅     |
 
 ---
 
 ## <span style="color: #1589F0;"></span> `Week 3` \* June 24-25
 
-| 📅 Date  | 🏆 Challenge                  | 🗂️ File                                                                                                                    |
-| -------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 📈 06/24 | **Day 10** - Order Array      | [`d10_order_array.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w3/d10_order_array.cpp)           |
-| ✅ 06/25 | **Day 11** - Check Palindrome | [`d11_check_palindrome.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w3/d11_check_palindrome.cpp) |
-
----
+| 📅 Date  | 🏆 Challenge                  | 🗂️ File                                                                                                                    | Concepts Covered   | Status |
+| -------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ |
+| 📈 06/24 | **Day 10** - Order Array      | [`d10_order_array.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w3/d10_order_array.cpp)           | Arrays, Sorting    | ✅     |
+| ✅ 06/25 | **Day 11** - Check Palindrome | [`d11_check_palindrome.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w3/d11_check_palindrome.cpp) | Strings, Functions | ✅     |
 
 ### <p align=center>🔵 The Huddle MC's</p>
 
