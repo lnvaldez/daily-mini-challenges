@@ -1,11 +1,22 @@
 <h1 align=center>🐧 Daily Mini-Challenges</h1>
+<pre align=center>
+                              _       
+                             (_)      
+ _ __   ___ _ __   __ _ _   _ _ _ __  
+| '_ \ / _ \ '_ \ / _` | | | | | '_ \ 
+| |_) |  __/ | | | (_| | |_| | | | | |
+| .__/ \___|_| |_|\__, |\__,_|_|_| |_|
+| |                __/ |              
+|_|               |___/               
+</pre>
 
 **Table of Contents**
 
+- [The Dive](#)
 - [Week 1](#-week-1--june-11-14)
 - [Week 2](#-week-2--june-17-21)
 - [Week 3](#-week-3--june-24-25)
-- [The Huddle MC's](#-the-huddle-mcs)
+- [The Huddle MC's](#https://github.com/lnvaldez/daily-mini-challenges?tab=readme-ov-file#-the-huddle-mcs)
 
 <h1 align=center>🤿 The Dive MC's</h1>
 
@@ -37,7 +48,7 @@
 | 📈 06/24 | **Day 10** - Order Array      | [`d10_order_array.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w3/d10_order_array.cpp)           |
 | ✅ 06/25 | **Day 11** - Check Palindrome | [`d11_check_palindrome.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w3/d11_check_palindrome.cpp) |
 
----
+<br/>
 
 <h1 align=center>🔵 The Huddle MC's</h1>
 <p align="center">
@@ -65,28 +76,3 @@
 | 15    | 🚗  | **<span style="color: #f1e05a;">Car and Engine</span>**      | [15-car-engine.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/15-car-engine.js)                   |
 | 16    | 📐  | **<span style="color: #f1e05a;">Geometric Shapes</span>**    | [16-geometric-shape.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/16-geometric-shape.js)         |
 | 17-21 | 🗄️  | **<span style="color: #3572A5;">SQL Basics</span>**          | [sqlite.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/sqlite.py)                                 |
-
-<pre>
-dHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHb
-HHP%%#%%%%%%%%%%%%%%%%#%%%%%%%#%%VHH
-HH%%%%%%%%%%#%v~~~~~~\%%%#%%%%%%%%HH
-HH%%%%%#%%%%v'        ~~~~\%%%%%#%HH
-HH%%#%%%%%%v'dHHb      a%%%#%%%%%%HH
-HH%%%%%#%%v'dHHHA     :%%%%%%#%%%%HH
-HH%%%#%%%v' VHHHHaadHHb:%#%%%%%%%%HH
-HH%%%%%#v'   `VHHHHHHHHb:%%%%%#%%%HH
-HH%#%%%v'      `VHHHHHHH:%%%#%%#%%HH
-HH%%%%%'        dHHHHHHH:%%#%%%%%%HH
-HH%%#%%        dHHHHHHHH:%%%%%%#%%HH
-HH%%%%%       dHHHHHHHHH:%%#%%%%%%HH
-HH#%%%%       VHHHHHHHHH:%%%%%#%%%HH
-HH%%%%#   b    HHHHHHHHV:%%%#%%%%#HH
-HH%%%%%   Hb   HHHHHHHV'%%%%%%%%%%HH
-HH%%#%%   HH  dHHHHHHV'%%%#%%%%%%%HH
-HH%#%%%   VHbdHHHHHHV'#%%%%%%%%#%%HH
-HHb%%#%    VHHHHHHHV'%%%%%#%%#%%%%HH
-HHHHHHHb    VHHHHHHH:%odHHHHHHbo%dHH
-HHHHHHHHboodboooooodHHHHHHHHHHHHHHHH
-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-VHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHV
-</pre>
