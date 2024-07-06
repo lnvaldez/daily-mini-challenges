@@ -10,9 +10,11 @@
 |_|               |___/               
 </pre>
 
-<h1 align=center>🤿 The Dive MC's</h1>
+### <p align=center>🤿 The Dive MC's</p>
 
-## <span style="color: #1589F0;">🔷</span> `Week 1` \* June 11-14
+<!-- <h1 align=center>🤿 The Dive MC's</h1> -->
+
+## <span style="color: #1589F0;"></span> `Week 1` \* June 11-14
 
 | 📅 Date  | 🏆 Challenge                     | 🗂️ File                                                                                                            |
 | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -21,7 +23,7 @@
 | 🅰️ 06/13 | **Day 3** - Count Vowels         | [`d3_count_vowels.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d3_count_vowels.py)     |
 | 📦 06/14 | **Day 4** - Sort List            | [`d4_sort_list.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w1/d4_sort_list.py)           |
 
-## <span style="color: #1589F0;">🔷</span> `Week 2` \* June 17-21
+## <span style="color: #1589F0;"></span> `Week 2` \* June 17-21
 
 | 📅 Date  | 🏆 Challenge                        | 🗂️ File                                                                                                                          |
 | -------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,16 +35,18 @@
 
 ---
 
-## <span style="color: #1589F0;">🔷</span> `Week 3` \* June 24-25
+## <span style="color: #1589F0;"></span> `Week 3` \* June 24-25
 
 | 📅 Date  | 🏆 Challenge                  | 🗂️ File                                                                                                                    |
 | -------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 📈 06/24 | **Day 10** - Order Array      | [`d10_order_array.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w3/d10_order_array.cpp)           |
 | ✅ 06/25 | **Day 11** - Check Palindrome | [`d11_check_palindrome.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w3/d11_check_palindrome.cpp) |
 
-<br/>
+---
 
-<h1 align=center>🔵 The Huddle MC's</h1>
+### <p align=center>🔵 The Huddle MC's</p>
+
+<!-- <h1 align=center>🔵 The Huddle MC's</h1> -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,ruby,js,sqlite" />
@@ -68,3 +72,5 @@
 | 15    | 🚗  | **<span style="color: #f1e05a;">Car and Engine</span>**      | [15-car-engine.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/15-car-engine.js)                   |
 | 16    | 📐  | **<span style="color: #f1e05a;">Geometric Shapes</span>**    | [16-geometric-shape.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/16-geometric-shape.js)         |
 | 17-21 | 🗄️  | **<span style="color: #3572A5;">SQL Basics</span>**          | [sqlite.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/sqlite.py)                                 |
+
+---
