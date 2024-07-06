@@ -1,4 +1,11 @@
-# 🐧 Daily Mini-Challenges
+<h1 align=center>🐧 Daily Mini-Challenges</h1>
+
+**Table of Contents**
+
+- [Week 1](#-week-1--june-11-14)
+- [Week 2](#-week-2--june-17-21)
+- [Week 3](#-week-3--june-24-25)
+- [The Huddle MC's](#-the-huddle-mcs)
 
 <h1 align=center>🤿 The Dive MC's</h1>
 
