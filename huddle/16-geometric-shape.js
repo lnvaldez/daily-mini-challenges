@@ -48,7 +48,7 @@ class Circle extends GeometricShape {
   }
 
   calculateArea() {
-    let a = this.pi * Math.pow(this.r, 2); // Fixed: this.pi instead of pi
+    let a = this.pi * Math.pow(this.r, 2);
     return a;
   }
 }
