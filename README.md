@@ -33,87 +33,28 @@
 ---
 
 <h1 align=center>🔵 The Huddle MC's</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,ruby,js,sqlite" />
+  </a>
+</p>
 
-1. **Binary Search**
-
----
-
-2. **Simple Sort**
-
----
-
-3. **DFS**
-
----
-
-4. **BFS**
-
----
-
-5. **Shortest Path**
-
----
-
-6. **BST Insertion**
-
----
-
-7. **Priority Queue**
-
----
-
-8. **Stacks and Queues**
-
----
-
-9. **Factorial Recursion**
-
----
-
-10. **Remove Duplicates**
-
----
-
-11. **2D Point Class**
-
----
-
-12. **Shape and Circle**
-
----
-
-13. **Bank Account**
-
----
-
-14. **Polymorphism**
-
----
-
-15. **Car and Engine**
-
----
-
-16. **Geometric Shapes**
-
----
-
-17. **Create Table**
-
----
-
-18. **Insert Data**
-
----
-
-19. **Select Data**
-
----
-
-20. **Update Record**
-
----
-
-21. **Delete Record**
-
----
+| No.   |     | Name                                                         | File Name                                                                                                                 |
+| ----- | --- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| 1     | 🔍  | **<span style="color: #3572A5;">Binary Search</span>**       | [01_binary_search.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/01_binary_search.py)             |
+| 2     | 🔄  | **<span style="color: #f34b7d;">Simple Sort</span>**         | [02_simple_sort.cpp](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/02_simple_sort.cpp)               |
+| 3     | 🌲  | **<span style="color: #3572A5;">DFS</span>**                 | [03_dfs.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/03_dfs.py)                                 |
+| 4     | 🌳  | **<span style="color: #3572A5;">BFS</span>**                 | [04_bfs.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/04_bfs.py)                                 |
+| 5     | 🛤️  | **<span style="color: #3572A5;">Shortest Path</span>**       | [05_shortest_path.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/05_shortest_path.py)             |
+| 6     | 🌲  | **<span style="color: #3572A5;">BST Insertion</span>**       | [06_bst.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/06_bst.py)                                 |
+| 7     | 📈  | **<span style="color: #3572A5;">Priority Queue</span>**      | [07_priority_queue.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/07_priority_queue.py)           |
+| 8     | 📦  | **<span style="color: #f34b7d;">Stacks and Queues</span>**   | [08_stack_queue.cpp](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/08_stack_queue.cpp)               |
+| 9     | 🔢  | **<span style="color: #3572A5;">Factorial Recursion</span>** | [09_factorial_recursion.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/09_factorial_recursion.py) |
+| 10    | 🚮  | **<span style="color: #f34b7d;">Remove Duplicates</span>**   | [10_remove_duplicate.cpp](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/10_remove_duplicate.cpp)     |
+| 11    | 🧩  | **<span style="color: #701516;">2D Point Class</span>**      | [11_2d_point.rb](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/11_2d_point.rb)                       |
+| 12    | 🔵  | **<span style="color: #f34b7d;">Shape and Circle</span>**    | [12_shape_circle.cpp](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/12_shape_circle.cpp)             |
+| 13    | 💰  | **<span style="color: #701516;">Bank Account</span>**        | [13_bank_account.rb](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/13_bank_account.rb)               |
+| 14    | 🎭  | **<span style="color: #701516;">Polymorphism</span>**        | [14_polymorphism.rb](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/14_polymorphism.rb)               |
+| 15    | 🚗  | **<span style="color: #f1e05a;">Car and Engine</span>**      | [15-car-engine.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/15-car-engine.js)                   |
+| 16    | 📐  | **<span style="color: #f1e05a;">Geometric Shapes</span>**    | [16-geometric-shape.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/16-geometric-shape.js)         |
+| 17-21 | 🗄️  | **<span style="color: #3572A5;">SQL Basics</span>**          | [sqlite.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/sqlite.py)                                 |
