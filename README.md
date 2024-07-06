@@ -65,3 +65,28 @@
 | 15    | 🚗  | **<span style="color: #f1e05a;">Car and Engine</span>**      | [15-car-engine.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/15-car-engine.js)                   |
 | 16    | 📐  | **<span style="color: #f1e05a;">Geometric Shapes</span>**    | [16-geometric-shape.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/16-geometric-shape.js)         |
 | 17-21 | 🗄️  | **<span style="color: #3572A5;">SQL Basics</span>**          | [sqlite.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/sqlite.py)                                 |
+
+<pre>
+dHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHb
+HHP%%#%%%%%%%%%%%%%%%%#%%%%%%%#%%VHH
+HH%%%%%%%%%%#%v~~~~~~\%%%#%%%%%%%%HH
+HH%%%%%#%%%%v'        ~~~~\%%%%%#%HH
+HH%%#%%%%%%v'dHHb      a%%%#%%%%%%HH
+HH%%%%%#%%v'dHHHA     :%%%%%%#%%%%HH
+HH%%%#%%%v' VHHHHaadHHb:%#%%%%%%%%HH
+HH%%%%%#v'   `VHHHHHHHHb:%%%%%#%%%HH
+HH%#%%%v'      `VHHHHHHH:%%%#%%#%%HH
+HH%%%%%'        dHHHHHHH:%%#%%%%%%HH
+HH%%#%%        dHHHHHHHH:%%%%%%#%%HH
+HH%%%%%       dHHHHHHHHH:%%#%%%%%%HH
+HH#%%%%       VHHHHHHHHH:%%%%%#%%%HH
+HH%%%%#   b    HHHHHHHHV:%%%#%%%%#HH
+HH%%%%%   Hb   HHHHHHHV'%%%%%%%%%%HH
+HH%%#%%   HH  dHHHHHHV'%%%#%%%%%%%HH
+HH%#%%%   VHbdHHHHHHV'#%%%%%%%%#%%HH
+HHb%%#%    VHHHHHHHV'%%%%%#%%#%%%%HH
+HHHHHHHb    VHHHHHHH:%odHHHHHHbo%dHH
+HHHHHHHHboodboooooodHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+VHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHV
+</pre>
