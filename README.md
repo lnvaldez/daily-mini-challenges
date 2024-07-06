@@ -10,14 +10,6 @@
 |_|               |___/               
 </pre>
 
-**Table of Contents**
-
-- [The Dive](#)
-- [Week 1](#-week-1--june-11-14)
-- [Week 2](#-week-2--june-17-21)
-- [Week 3](#-week-3--june-24-25)
-- [The Huddle MC's](#https://github.com/lnvaldez/daily-mini-challenges?tab=readme-ov-file#-the-huddle-mcs)
-
 <h1 align=center>🤿 The Dive MC's</h1>
 
 ## <span style="color: #1589F0;">🔷</span> `Week 1` \* June 11-14
