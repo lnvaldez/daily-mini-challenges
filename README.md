@@ -33,8 +33,6 @@
 | 🔒 06/20 | **Day 8** - Safe Password Generator | [`d8_safe_password.py`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d8_safe_password.py)                 | Strings, Random        | ✅     |
 | ➕ 06/21 | **Day 9** - Sum                     | [`d9_sum.cpp`](https://github.com/lnvaldez/Daily-Mini-Challenges/blob/main/dive/w2/d9_sum.cpp)                                   | Functions, Loops       | ✅     |
 
----
-
 ## <span style="color: #1589F0;"></span> `Week 3` \* June 24-25
 
 | 📅 Date  | 🏆 Challenge                  | 🗂️ File                                                                                                                    | Concepts Covered   | Status |
