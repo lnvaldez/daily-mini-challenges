@@ -65,7 +65,7 @@ unsigned int fastRand() {
     return dis(gen);
 }
 
-void sortAndPrintArray(int size) {
+void test(int size) {
     int* arr = new int[size];
     for (int i = 0; i < size; i++) {
         arr[i] = fastRand() % 1000;
@@ -87,7 +87,7 @@ int main() {
     
     for (int size : sizes) {
         cout << "\nTesting with size " << size << ":" << endl;
-        sortAndPrintArray(size);
+        test(size);
     }
     return 0;
 }
