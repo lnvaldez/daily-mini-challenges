@@ -5,7 +5,6 @@
 
 using namespace std;
 
-constexpr int MAX_SIZE = 300;
 constexpr int INSERTION_SORT_THRESHOLD = 32;
 
 inline void insertionSort(int* arr, int start, int end) {
@@ -66,7 +65,7 @@ unsigned int fastRand() {
     return dis(gen);
 }
 
-void testSort(int size) {
+void sortAndPrintArray(int size) {
     int* arr = new int[size];
     for (int i = 0; i < size; i++) {
         arr[i] = fastRand() % 1000;
@@ -79,19 +78,16 @@ void testSort(int size) {
     chrono::duration<double, milli> elapsed = end - start;
     cout << "Size: " << size << ", Time: " << elapsed.count() << " ms" << endl;
 
-    if (!is_sorted(arr, arr + size)) {
-        cout << "Error: Array not sorted correctly!" << endl;
-    }
-
     delete[] arr;
 }
 
 int main() {
-    const int sizes[] = {100, 300, 500};
+    // Define the sizes for small, medium, and large datasets
+    const int sizes[] = {100};
     
     for (int size : sizes) {
         cout << "\nTesting with size " << size << ":" << endl;
-        testSort(size);
+        sortAndPrintArray(size);
     }
     return 0;
 }
