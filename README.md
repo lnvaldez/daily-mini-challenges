@@ -1,3 +1,5 @@
+## Big Mini-Challenge [Quick Sort](/huddle/quick_sort.cpp)
+
 <h1 align=center>🐧 Daily Mini-Challenges</h1>
 <pre align=center>
                               _       
