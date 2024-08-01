@@ -1,5 +1,3 @@
-## Big Mini-Challenge [Quick Sort](/huddle/quick_sort.cpp)
-
 <h1 align=center>🐧 Daily Mini-Challenges</h1>
 <pre align=center>
                               _       
@@ -70,3 +68,4 @@
 | 15    | 🚗  | **<span style="color: #f1e05a;">Car and Engine</span>**      | [15-car-engine.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/15-car-engine.js)                   | JavaScript Basics           | ✅     |
 | 16    | 📐  | **<span style="color: #f1e05a;">Geometric Shapes</span>**    | [16-geometric-shape.js](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/16-geometric-shape.js)         | JavaScript Basics           | ✅     |
 | 17-21 | 🗄️  | **<span style="color: #3572A5;">SQL Basics</span>**          | [sqlite.py](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/17-21/sqlite.py)                           | Database Basics             | ✅     |
+| BC    | 🧹  | **<span style="color: #3572A5;">Quick Sort</span>**          | [quick_sort.cpp](https://github.com/lnvaldez/daily-mini-challenges/blob/main/huddle/quick_sort.cpp)                       | Sorting Algorithm           | ✅     |
