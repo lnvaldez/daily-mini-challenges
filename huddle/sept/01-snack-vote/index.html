@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Snack Polls</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 class="poll-question">What is your favorite snack?</h1>
+      <form id="poll-form" class="" poll-form>
+        <label>
+          <input type="radio" name="vote" value="doritos" /> Doritos
+        </label>
+        <label> <input type="radio" name="vote" value="oreos" /> Oreos </label>
+        <label>
+          <input type="radio" name="vote" value="pringles" /> Pringles
+        </label>
+        <button type="submit" class="vote-button">Vote</button>
+      </form>
+      <div id="results" class="results">
+        <h2 class="results-title">Results</h2>
+      </div>
+      <div class="results-count">
+        <p>
+          Doritos:
+          <span id="dorito-count" class="count">0</span>
+        </p>
+        <p>
+          Oreos:
+          <span id="oreo-count" class="count">0</span>
+        </p>
+        <p>
+          Pringles:
+          <span id="pringle-count" class="count">0</span>
+        </p>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
